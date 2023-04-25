@@ -23,3 +23,4 @@ total: 36
 ---
 
 Empa HDR Image Database evolved from projects on HDR research carried out at Empa in the years 2011-2013 with partial support of the COST action IC1005 on HDRI. All images are placed in the public domain exclusively for non-commercial research purposes.There are 33 scenes, consisting of the images from the exposure bracketing, resulting exr and hdr files, and a tone mapped jpeg. The zip file contains all files. The exr and hdr files can be downloaded individually, if desired. Furthermore, there are 3 image sequences that can be turned into videos using the time lapse or stop motion technique. 
+The Empa HDR Image Database is now availble under  https://doi.org/10.5281/zenodo.7861544
